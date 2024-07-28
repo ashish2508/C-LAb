@@ -1,0 +1,14 @@
+design a structure studen_Rollno. with the following field :
+1 name in a string data type
+2 roll no. in int data type
+3 subject which no. of subject a student has enrolled
+4 marks : a floating point array that contains marks in the subject
+
+you need to design the following 
+1.creat a record for n (user inputs) students who reads in the same  class
+2 able to retreive information for each student
+3 able to print student record for a particular student by their roll number
+4 can find the average marks of a student by their roll number
+5 can find the average mark of a subject of all the students 
+
+a good function design is preferred
